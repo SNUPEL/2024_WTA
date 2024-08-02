@@ -1,0 +1,7 @@
+id		    1	2
+speed		178	178
+course		0	0
+radius		20	20
+position_x	10	25
+position_y	30	42
+side		blue	yellow
