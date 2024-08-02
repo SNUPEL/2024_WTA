@@ -1,0 +1,16 @@
+type					    1	2	3	4
+speed					    2.5	2.5	2.5	2.5
+attack_range				50	50	15	15
+beam_width				    30	30	30	30
+angular_velocity			7	7	7	7
+rotation_range			    30	30	30	30
+range					    10	10	10	10
+length					    4	4	4	4
+seeker_on_distance			10	10	5	5
+p_h					        0.8	0.8	0.8	0.8
+radar_peak_power			1000000	1000000	1000000	1000000
+antenna_gain_factor		    9300	9300	9300	9300
+wavelength_of_signal		3.7	3.7	3.7	3.7
+radar_receiver_bandwidth	8	8	8	8
+radius					    0.25	0.25	0.25	0.25
+cla				        	LSAM	LSAM	MSAM	MSAM

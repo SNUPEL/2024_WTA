@@ -1,0 +1,6 @@
+parameter			number
+inception_distance	40
+inception_angle		90
+enemy_spacing_mean	10
+enemy_spacing_std	3
+
